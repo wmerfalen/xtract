@@ -1,6 +1,6 @@
 {
   "name": "@mentoc/xtract",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract values out of deep structures using a safe and simple extraction language.",
   "main": "src/xtract.js",
   "scripts": {
