@@ -1,6 +1,6 @@
 {
   "name": "xtract",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract values out of deep structures using a safe and simple extraction language.",
   "main": "index.js",
   "scripts": {
