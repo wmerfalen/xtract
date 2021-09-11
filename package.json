@@ -1,0 +1,26 @@
+{
+  "name": "xtract",
+  "version": "1.0.0",
+  "description": "Extract values out of deep structures using a safe and simple extraction language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmerfalen/xtract.git"
+  },
+  "keywords": [
+    "isset",
+    "deep",
+    "object",
+    "array",
+    "crawl"
+  ],
+  "author": "wmerfalen@gmail.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wmerfalen/xtract/issues"
+  },
+  "homepage": "https://github.com/wmerfalen/xtract#readme"
+}
