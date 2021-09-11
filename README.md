@@ -1,14 +1,14 @@
 # xtract
 Using a simple syntax, it's possible to fetch a value that is deep within a known structure hierarchy.
 
-# Install
+# Installation
 ```
-npm install xtract
+npm install @mentoc/xtract
 ```
 
 # Usage
 ```
-const { xt } = require('xtract')
+const { xt } = require('@mentoc/xtract')
 let grocery_list = {
 	products: [
 		{
@@ -41,4 +41,4 @@ let budget = xt(grocery_list,'budget')
 We simply return null if you attempt to grab something that isn't there.
 
 # Version
-1.0.0
+1.0.2
