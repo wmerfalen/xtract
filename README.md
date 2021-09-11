@@ -34,7 +34,7 @@ let apples = xt(grocery_list,'products.0.name')
 let products = xt(grocery_list,'products')
 
 // Grab the budget
-let budger = xt(grocery_list,'budget')
+let budget = xt(grocery_list,'budget')
 ```
 
 # What happens if the key is missing?
